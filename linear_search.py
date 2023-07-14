@@ -5,8 +5,8 @@ def linear_search(list, target):
             break
 
 list = [1,2,3,4,5,6]
-target = 3
+
 
 if __name__ == "__main__":
-    linear_search(list, target)
+    linear_search(list, 5)
 
