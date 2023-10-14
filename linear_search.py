@@ -8,5 +8,5 @@ list = [1,2,3,4,5,6]
 
 
 if __name__ == "__main__":
-    linear_search(list, 5)
+    linear_search(list, 3)
 
