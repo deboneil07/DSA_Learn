@@ -27,6 +27,6 @@ if __name__ == "__main__":
 
     n = insert(arr, n, capacity, key )
 
-    print("After Insertion : ", end=' ')
+    print("\nAfter Insertion : ", end=' ')
     for i in range(n):
         print(arr[i], end= ' ')
